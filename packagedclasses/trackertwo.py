@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-#simple
-#simple
+#it worked
 
 
-=======
-
->>>>>>> origin/main
 import csv
 
 
