@@ -1,8 +1,6 @@
 
 
 
-=======
->>>>>>> origin/tryagain
 
 
 import csv
