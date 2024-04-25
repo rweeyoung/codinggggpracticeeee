@@ -1,5 +1,4 @@
 #this scripthas some error handling issues
-#it worked
 
 
 
