@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+#simple
+#simple
 
+
+=======
+
+>>>>>>> origin/main
 import csv
 
 
