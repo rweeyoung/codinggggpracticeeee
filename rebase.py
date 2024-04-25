@@ -1,1 +1,1 @@
-#input wtv
+print("gokysNOW")
