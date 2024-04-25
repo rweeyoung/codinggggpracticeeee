@@ -1,5 +1,10 @@
 #simple
+<<<<<<< HEAD
 #simple
+=======
+
+
+>>>>>>> origin/tryagain
 import csv
 
 
