@@ -1,6 +1,5 @@
 #simple
-
-
+#simple
 
 from .tracker import Tracker
 from .trackertwo import Trackertwo
