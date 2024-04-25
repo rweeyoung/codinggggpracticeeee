@@ -1,9 +1,7 @@
-#simple
-#simple
 
 
 import csv
-#
+
 
 class Tracker:
     def __init__(self, name):
