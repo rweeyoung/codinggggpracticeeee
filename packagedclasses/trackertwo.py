@@ -1,6 +1,10 @@
 #it worked
 
 
+=======
+>>>>>>> origin/tryagain
+
+
 import csv
 
 
